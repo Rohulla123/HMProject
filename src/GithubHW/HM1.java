@@ -6,4 +6,7 @@ public class HM1 {
 		
 		System.out.println("Hello world");
 	}
+	public static void add(int a, int b) {
+		System.out.println(a+b);
+	}
 }
