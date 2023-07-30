@@ -10,6 +10,6 @@ public class HM1 {
 		System.out.println(a+b);
 	}
 	public void getInfo() {
-	system.out.println("Hello");
+System.out.println("Hello");
 	}
-	}
+}
